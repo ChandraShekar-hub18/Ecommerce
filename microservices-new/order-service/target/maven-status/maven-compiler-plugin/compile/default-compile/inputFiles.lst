@@ -1,0 +1,10 @@
+C:\Users\kiran\Desktop\Ecommerce\Backend\microservices-new\order-service\src\main\java\com\codewithchandu\orderservice\config\WebClientConfig.java
+C:\Users\kiran\Desktop\Ecommerce\Backend\microservices-new\order-service\src\main\java\com\codewithchandu\orderservice\dto\OrderRequest.java
+C:\Users\kiran\Desktop\Ecommerce\Backend\microservices-new\order-service\src\main\java\com\codewithchandu\orderservice\model\Order.java
+C:\Users\kiran\Desktop\Ecommerce\Backend\microservices-new\order-service\src\main\java\com\codewithchandu\orderservice\repository\OrderRepository.java
+C:\Users\kiran\Desktop\Ecommerce\Backend\microservices-new\order-service\src\main\java\com\codewithchandu\orderservice\model\OrderLineItems.java
+C:\Users\kiran\Desktop\Ecommerce\Backend\microservices-new\order-service\src\main\java\com\codewithchandu\orderservice\dto\OrderLineItemsDto.java
+C:\Users\kiran\Desktop\Ecommerce\Backend\microservices-new\order-service\src\main\java\com\codewithchandu\orderservice\service\OrderService.java
+C:\Users\kiran\Desktop\Ecommerce\Backend\microservices-new\order-service\src\main\java\com\codewithchandu\orderservice\controller\OrderController.java
+C:\Users\kiran\Desktop\Ecommerce\Backend\microservices-new\order-service\src\main\java\com\codewithchandu\orderservice\dto\InventoryResponse.java
+C:\Users\kiran\Desktop\Ecommerce\Backend\microservices-new\order-service\src\main\java\com\codewithchandu\orderservice\OrderServiceApplication.java

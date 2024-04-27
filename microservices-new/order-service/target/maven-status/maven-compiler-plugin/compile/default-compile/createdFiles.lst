@@ -1,0 +1,11 @@
+com\codewithchandu\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\codewithchandu\orderservice\dto\OrderLineItemsDto.class
+com\codewithchandu\orderservice\service\OrderService.class
+com\codewithchandu\orderservice\model\OrderLineItems.class
+com\codewithchandu\orderservice\repository\OrderRepository.class
+com\codewithchandu\orderservice\dto\InventoryResponse.class
+com\codewithchandu\orderservice\dto\OrderRequest.class
+com\codewithchandu\orderservice\model\Order.class
+com\codewithchandu\orderservice\controller\OrderController.class
+com\codewithchandu\orderservice\OrderServiceApplication.class
+com\codewithchandu\orderservice\config\WebClientConfig.class
